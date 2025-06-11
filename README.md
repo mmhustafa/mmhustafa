@@ -13,8 +13,8 @@
 
 ### 🧑‍💻 About Me
 🚀 Aspiring backend developer passionate about building efficient and maintainable applications.  
-📚 Computer Science student at El Shourouk Academy (Class of 2026) with Excellent academic standing.  
-💡 Strong foundation in .NET technologies, OOP, and database systems.  
+📚 Computer Science (Class of 2026) .  
+💡 Strong foundation in .NET technologies, and database systems.  
 🎯 Committed to clean code, performance optimization, and learning new technologies.
 
 ---
