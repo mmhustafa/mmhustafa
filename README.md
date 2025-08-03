@@ -12,20 +12,33 @@
 ---
 
 ### 🧑‍💻 About Me
-🚀 Aspiring backend developer passionate about building efficient and maintainable applications.  
-📚 Computer Science (Class of 2026) .  
-💡 Strong foundation in .NET technologies, and database systems.  
-🎯 Committed to clean code, performance optimization, and learning new technologies.
+🚀 Aspiring backend developer passionate about building efficient, scalable, and maintainable applications.  
+🎓 Computer Science Student (Class of 2026).  
+🛠️ Strong foundation in .NET technologies, database systems, and web development.  
+💡 Always eager to learn, improve, and explore modern technologies.
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+
+#### 💻 Backend & Database:
+<p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+#### 🌐 Frontend:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+</p>
+
+#### 🔧 Tools & Version Control:
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
@@ -39,7 +52,7 @@
 
 ### 📫 Contact Me
 
-<p align="left">
+<p>
   <a href="https://www.linkedin.com/in/mmhustafa" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
