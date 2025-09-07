@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Mustafa Mahmoud</h1>
 <h3 align="center">.NET Backend Developer | ASP.NET Core Enthusiast</h3>
