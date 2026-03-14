@@ -40,11 +40,6 @@
 
 ---
 
-### 🏆 Certifications
-- 🎓 DEPI - Full Stack .NET Web Developer
-
----
-
 ### 📫 Contact Me
 
 <p>
