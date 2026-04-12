@@ -7,9 +7,9 @@
 ---
 
 ### 🧑‍💻 About Me
-Aspiring backend developer passionate about building efficient, scalable, and maintainable applications.  
-Computer Science Student (Class of 2026).  
-Always eager to learn, improve, and explore modern technologies.
+- Aspiring backend developer passionate about building efficient, scalable, and maintainable applications.  
+- Computer Science Student (Class of 2026).  
+- Always eager to learn, improve, and explore modern technologies.
 
 ---
 
